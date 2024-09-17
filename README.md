@@ -1,0 +1,2 @@
+# veriBilimiEgitimi
+ Algoritmalar Modülü Ödevi
